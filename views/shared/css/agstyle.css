@@ -1,0 +1,8 @@
+span.tooltip {
+  display: inline-block;
+  border-bottom: 1px dotted;
+}
+
+div.tooltipster-base {
+  max-width: 25%;
+}
